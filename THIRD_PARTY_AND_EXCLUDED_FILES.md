@@ -4,6 +4,8 @@ This clean export includes only text and source-code-style skill assets copied f
 
 The original source repository contains many third-party or externally sourced references such as contest problem statements, student papers, PDFs, images, MATLAB Live Scripts, Office documents, datasets, archives, and other binary materials. Those materials are not included here and are not relicensed by Chen Jing.
 
+The local export prepared for upload intentionally excluded PDF, image, Office, MATLAB Live Script, `.mat`, archive, and other binary reference assets. Downstream users should not infer that third-party reference materials are licensed under this repository's MIT License.
+
 Excluded files from the skills directory are listed below so that downstream users can see what was intentionally omitted.
 
 | Path | Size bytes | Type |
