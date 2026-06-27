@@ -1,61 +1,52 @@
 # Skills Index
 
-This repository is intended to host a clean MIT-licensed export of Chen Jing's MCM/ICM modeling skills.
+This repository hosts a clean MIT-licensed export of Chen Jing's MCM/ICM mathematical modeling skills.
 
-The prepared local export contains 42 skills:
+The repository contains 42 skill definitions:
 
-- ahp-method
-- ai-report-writer
-- arima-forecaster
-- automated-sweep
-- data-cleaner
-- differential-equations
-- dynamic-programming
-- entropy-weight-method
-- fuzzy-evaluation
-- genetic-algorithm
-- graph-theory
-- grey-forecaster
-- grey-relation
-- integer-programming
-- latex-coauthoring
-- latex-transformer
-- linear-programming
-- logistic-growth
-- lotka-volterra
-- lstm-forecaster
-- minimax-programming
-- minimum-spanning-tree
-- ml-regressor
-- modular-modeler
-- monte-carlo-engine
-- multi-objective-optimization
-- network-centrality
-- nonlinear-programming
-- pareto-frontier
-- particle-swarm
-- pca-analyzer
-- pdf
-- reaction-diffusion
-- robustness-check
-- sensitivity-master
-- shortest-path
-- simulated-annealing
-- skill-creator
-- topsis-scorer
-- visual-engineer
-- web-artifacts-builder
-- xlsx
+- [`ahp-method`](.github/skills/ahp-method/)
+- [`ai-report-writer`](.github/skills/ai-report-writer/)
+- [`arima-forecaster`](.github/skills/arima-forecaster/)
+- [`automated-sweep`](.github/skills/automated-sweep/)
+- [`data-cleaner`](.github/skills/data-cleaner/)
+- [`differential-equations`](.github/skills/differential-equations/)
+- [`dynamic-programming`](.github/skills/dynamic-programming/)
+- [`entropy-weight-method`](.github/skills/entropy-weight-method/)
+- [`fuzzy-evaluation`](.github/skills/fuzzy-evaluation/)
+- [`genetic-algorithm`](.github/skills/genetic-algorithm/)
+- [`graph-theory`](.github/skills/graph-theory/)
+- [`grey-forecaster`](.github/skills/grey-forecaster/)
+- [`grey-relation`](.github/skills/grey-relation/)
+- [`integer-programming`](.github/skills/integer-programming/)
+- [`latex-coauthoring`](.github/skills/latex-coauthoring/)
+- [`latex-transformer`](.github/skills/latex-transformer/)
+- [`linear-programming`](.github/skills/linear-programming/)
+- [`logistic-growth`](.github/skills/logistic-growth/)
+- [`lotka-volterra`](.github/skills/lotka-volterra/)
+- [`lstm-forecaster`](.github/skills/lstm-forecaster/)
+- [`minimax-programming`](.github/skills/minimax-programming/)
+- [`minimum-spanning-tree`](.github/skills/minimum-spanning-tree/)
+- [`ml-regressor`](.github/skills/ml-regressor/)
+- [`modular-modeler`](.github/skills/modular-modeler/)
+- [`monte-carlo-engine`](.github/skills/monte-carlo-engine/)
+- [`multi-objective-optimization`](.github/skills/multi-objective-optimization/)
+- [`network-centrality`](.github/skills/network-centrality/)
+- [`nonlinear-programming`](.github/skills/nonlinear-programming/)
+- [`pareto-frontier`](.github/skills/pareto-frontier/)
+- [`particle-swarm`](.github/skills/particle-swarm/)
+- [`pca-analyzer`](.github/skills/pca-analyzer/)
+- [`pdf`](.github/skills/pdf/)
+- [`reaction-diffusion`](.github/skills/reaction-diffusion/)
+- [`robustness-check`](.github/skills/robustness-check/)
+- [`sensitivity-master`](.github/skills/sensitivity-master/)
+- [`shortest-path`](.github/skills/shortest-path/)
+- [`simulated-annealing`](.github/skills/simulated-annealing/)
+- [`skill-creator`](.github/skills/skill-creator/)
+- [`topsis-scorer`](.github/skills/topsis-scorer/)
+- [`visual-engineer`](.github/skills/visual-engineer/)
+- [`web-artifacts-builder`](.github/skills/web-artifacts-builder/)
+- [`xlsx`](.github/skills/xlsx/)
 
-## Prepared local package
+The repository also includes [`bayesian_inversion`](.github/skills/bayesian_inversion/), a supporting source-code module for Bayesian parameter inversion and uncertainty quantification.
 
-A complete clean export was prepared locally at:
-
-- `/private/tmp/mcm-icm-skills-tomevault`
-- `/private/tmp/mcm-icm-skills-tomevault.zip`
-
-It includes the skill definitions and source-code-style assets, while excluding third-party PDFs, images, Office files, MATLAB Live Scripts, `.mat` files, archives, and other binary reference materials.
-
-## Upload status
-
-The repository has been initialized with README, MIT license, and third-party exclusion notice. The full skill tree still needs to be uploaded from the prepared local package using a GitHub credentialed git push or GitHub web upload.
+For a structured overview of how to choose and combine the skills, see the [master guide](.github/skills/README.md).
